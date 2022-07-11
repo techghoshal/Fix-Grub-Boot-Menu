@@ -13,6 +13,6 @@ $ git clone git@github.com:aonetecha/Fix-Grub-Boot-Menu.git
     
 ## Usage
 ```bash
-$ cd grub
+$ cd Fix-Grub-Boot-Menu
 $ sudo chmod +x grub.sh
 $ sudo ./grub.sh 
