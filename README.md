@@ -8,7 +8,7 @@ Fix: Windows not showing in grub boot menu | kali Linux
 
 Download grub by cloning the Git repository :
 ```bash
-$ git clone 
+$ git clone git@github.com:aonetecha/Fix-Grub-Boot-Menu.git
 ```
     
 ## Usage
