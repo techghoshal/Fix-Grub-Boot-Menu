@@ -1,7 +1,7 @@
 #!/bin/bash
 #Fix: Windows not showing in grub boot menu | kali Linux
 
-
+echo
 tput bold
 tput setaf 40
 tput blink
@@ -9,7 +9,6 @@ echo "$* **FIX GRUB BOOT MENU"
 tput sgr0
 tput sgr0
 tput sgr0
-echo
 echo
 os-prober
 cp grub /etc/default/grub
