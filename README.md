@@ -3,7 +3,6 @@
 
 Fix: Windows not showing in grub boot menu | kali Linux
 
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/EycHi_11NAs?style=social">
 
 
 ### Installation
