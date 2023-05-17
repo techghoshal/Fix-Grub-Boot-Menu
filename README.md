@@ -19,4 +19,12 @@ $ cd Fix-Grub-Boot-Menu
 $ sudo chmod +x grub.sh
 $ sudo ./grub.sh
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/[YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=EycHi_11NAs)/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=EycHi_11NAs" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
